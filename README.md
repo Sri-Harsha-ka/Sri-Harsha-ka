@@ -28,6 +28,8 @@
 ## 🚀 Some of my Best Projects 
 - 🔗 **House Price Prediction**
   
+    What is this ?
+    
    This is an end-to-end Machine Learning + Web Development project where a trained ML model is exposed via a backend API and consumed by a modern frontend application.
     Makeing this project is really fun and some frustation due to unfamiliarity of the fastapi , At the end it turned out really good . It's also responsive , I just
     Thought that a prediction project should run on mobile or any device so, I made it resposive too ! , The UI might not be my best work in this project but I will try
@@ -38,6 +40,8 @@
   👉 [View HPP Github](https://github.com/Sri-Harsha-ka/HousePricePrediction)  👉 [View HPP Demo](https://housepriceprediction27.netlify.app/)
 
 - 🔗 **Realme Clone**
+
+  What is this ?
   
   A pixel-perfect replica of the official Realme landing page, built using React + Tailwind CSS.
   This project’s goal was to recreate the original Realme homepage as accurately as possible, focusing on layout, visuals, responsiveness, and UI precision.
