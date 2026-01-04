@@ -5,7 +5,7 @@
 - 🎓 BTech @ Anurag University
 - 💻 MERN Stack Developer
 - 🤖 Learning Machine Learning & Deep Learning
-- 🧠 Solved 90+ DSA problems (C++)
+- 🧠 Solved 90+ LC problems (C++)
 
 
 ## 🛠️ Tech Stack
